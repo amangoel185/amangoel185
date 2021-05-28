@@ -16,7 +16,7 @@ Apart from this, I love photographs, words, exploring new things, travelling, an
 ## Connect with me 🌎
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/amangoel185)](https://linkedin.com/in/amangoel185)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&logoColor=white&link=https://twitter.com/mightaswellcode)](https://twitter.com/mightaswellcode)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mightaswellcode)](https://twitter.com/mightaswellcode)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aman.goel185@gmail.com )](mailto:aman.goel185@gmail.com)
 
 
