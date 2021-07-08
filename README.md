@@ -1,5 +1,5 @@
 
-### Hey there, I am Aman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
+## Hey there, I am Aman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
 My pronouns are (he/him). I am an engineering undergraduate from the [University of Delhi](https://ducic.ac.in/).
 
@@ -19,6 +19,9 @@ Apart from this, I love photographs, words, exploring new things, travelling, an
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mightaswellcode)](https://twitter.com/mightaswellcode)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aman.goel185@gmail.com )](mailto:aman.goel185@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mightaswellcode/)](https://www.instagram.com/mightaswellcode/)
+
+---
+![snake gif](https://github.com/amangoel185/amangoel185/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **amangoel185/amangoel185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
