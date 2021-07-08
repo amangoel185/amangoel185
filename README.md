@@ -20,7 +20,7 @@ Apart from this, I love photographs, words, exploring new things, travelling, an
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:aman.goel185@gmail.com )](mailto:aman.goel185@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/mightaswellcode/)](https://www.instagram.com/mightaswellcode/)
 
----
+
 ![snake gif](https://github.com/amangoel185/amangoel185/blob/output/github-contribution-grid-snake.svg)
 
 <!--
