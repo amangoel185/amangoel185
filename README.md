@@ -5,6 +5,8 @@ My pronouns are (he/him). I am a senior engineering undergraduate student from t
 
 I am deeply passionate about **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematical Innovations_.
 
+I am also an open-source enthusiast who is always keen to learn more about everything from **Research Software**, **Ethics of Technology** to **Climate Change** and **Sustainability**.
+
 Currently, I am working as an **[IRIS-HEP Fellow](https://iris-hep.org/fellows/amangoel185.html)** on the **[Hist](https://github.com/scikit-hep/hist)** and **[uproot-browser](https://github.com/henryiii/uproot-browser)** libraries.
 
 I am actively exploring my options for pursuing higher studies, preferably in one of my interest areas, and if possible, at their intersection. 
