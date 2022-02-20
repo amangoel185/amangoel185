@@ -13,7 +13,7 @@ I am actively exploring my options for pursuing higher studies, preferably in on
 
 Apart from this, I love photographs, words, exploring new things, travelling, and making friends. :)
 
-[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-green)](git@github.com:amangoel185/amangoel185.git)
+[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-green)](https://drive.google.com/file/d/1_Hj5QGWUeMNxFDak7TyjSix1y0hrdSy5/view?usp=sharing)
 
 ## Connect with me 🌎
 
