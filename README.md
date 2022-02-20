@@ -3,8 +3,6 @@
 
 My pronouns are (he/him). I am a senior engineering undergraduate student from the [University of Delhi](https://ducic.ac.in/).
 
-I am deeply passionate about **Technology**, **Space** and **Physics**. 
-
 I am deeply passionate about **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematical Innovations_.
 
 Currently, I am working as an **[IRIS-HEP Fellow](https://iris-hep.org/fellows/amangoel185.html)** on the **[Hist](https://github.com/scikit-hep/hist)** and **[uproot-browser](https://github.com/henryiii/uproot-browser)** libraries.
