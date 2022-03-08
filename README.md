@@ -9,9 +9,9 @@ I am also an open-source enthusiast who is always keen to learn more about every
 
 Currently, I am working as an **[IRIS-HEP Fellow](https://iris-hep.org/fellows/amangoel185.html)** on the **[Hist](https://github.com/scikit-hep/hist)** and **[uproot-browser](https://github.com/henryiii/uproot-browser)** libraries.
 
-I am actively exploring my options for pursuing higher studies, preferably in one of my interest areas, and if possible, at their intersection.
+I am actively exploring my options for pursuing a job in the field of **Research Software Engineering**. I believe it would further help me to pursue my higher studies, preferably in one of my interest areas, and if possible, at their intersection.
 
-Apart from this, I love photographs, words, exploring new things, travelling, and making friends. :)
+Apart from this, I love photographs, words, exploring new things, travelling, and making friends. Oh and ofcourse, cheese. :)
 
 [![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-green)](https://drive.google.com/file/d/1_Hj5QGWUeMNxFDak7TyjSix1y0hrdSy5/view?usp=sharing)
 
