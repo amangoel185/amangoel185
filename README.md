@@ -1,7 +1,7 @@
 
 ## Hey there, I am Aman! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">
 
-My pronouns are (he/him). I am a senior engineering undergraduate student from the [University of Delhi](https://ducic.ac.in/).
+My pronouns are (he/him). I am a senior engineering undergraduate student at the [University of Delhi](https://ducic.ac.in/).
 
 I am deeply passionate about **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematical Innovations_.
 
