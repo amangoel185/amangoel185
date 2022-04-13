@@ -13,7 +13,7 @@ I am actively exploring my options for pursuing a job in the field of [**Researc
 
 Apart from this, I love photographs, words, exploring new things, travelling, and making friends. Oh and ofcourse, cheese. :)
 
-[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-green)](https://drive.google.com/file/d/1_Hj5QGWUeMNxFDak7TyjSix1y0hrdSy5/view?usp=sharing)
+[![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-green)](https://drive.google.com/file/d/1_MYaLD4YDC7yGg80kIJ9-bUf36QfQ9hP/view?usp=sharing)
 
 ## Connect with me 🌎
 
