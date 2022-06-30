@@ -5,7 +5,7 @@
 
 My pronouns are (he/him). I am a senior engineering undergraduate at the [University of Delhi](https://ducic.ac.in/).
 
-I am deeply passionate about **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematical Innovations_.
+I am deeply passionate about **Open Sciene**, **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematics_.
 
 I am also an open-source enthusiast who is always keen to learn more about everything from **Research Software**, **Ethics of Technology** to **Climate Change** and **Sustainability**.
 
