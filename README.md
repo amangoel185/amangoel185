@@ -3,7 +3,7 @@
 
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">-->
 
-My pronouns are (he/him). I am a senior engineering undergraduate at the [University of Delhi](https://ducic.ac.in/).
+My pronouns are (he/him). I am a senior engineering undergraduate at the [University of Delhi](http://www.du.ac.in/).
 
 I am deeply passionate about **Open Science**, **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematics_.
 
