@@ -3,9 +3,9 @@
 
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">-->
 
-My pronouns are (he/him). I am a senior engineering undergraduate at the [University of Delhi](http://www.du.ac.in/).
+My pronouns are (he/him). I am a recent graduate from the [University of Delhi](http://www.du.ac.in/).
 
-I am deeply passionate about **Open Science**, **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I am majoring in _Information Technology_ and _Mathematics_.
+I am deeply passionate about **Open Science**, **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I majored in _Information Technology_ and _Mathematics_.
 
 I am also an open-source enthusiast who is always keen to learn more about everything from **Research Software**, **Ethics of Technology** to **Climate Change** and **Sustainability**.
 
@@ -13,7 +13,7 @@ Currently, I am working as an **[IRIS-HEP Fellow](https://iris-hep.org/fellows/a
 
 I am actively exploring my options for pursuing a job in the field of [**Research Software Engineering**](https://us-rse.org/about/what-is-an-rse/). I believe it would further help me to pursue my higher studies, preferably in one of my interest areas, and if possible, at their intersection.
 
-Apart from this, I love photographs, words, exploring new things, travelling, and making friends. Oh and ofcourse, cheese. :)
+<!-- Apart from this, I love photographs, words, exploring new things, travelling, and making friends. Oh and ofcourse, cheese. :) -->
 
 [![CV Badge](https://img.shields.io/badge/CV-Curriculum%20Vitae-green)](https://drive.google.com/file/d/1_MYaLD4YDC7yGg80kIJ9-bUf36QfQ9hP/view?usp=sharing)
 
