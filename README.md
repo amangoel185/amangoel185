@@ -3,7 +3,7 @@
 
 <!--<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px">-->
 
-My pronouns are (he/him). I am a research software engineer at [The University of Manchester](https://research-it.manchester.ac.uk/).
+My pronouns are (he/him). I am a research software engineer at [The University of Manchester](https://research-it.manchester.ac.uk/). I am also a [Software Sustainability Institute Fellow](https://software.ac.uk/about/fellows/aman-goel) and an [Open Life Science mentee](https://openlifesci.org/ols-6/projects-participants/#amangoel185).
 
 I am deeply passionate about **Open Science**, **Computer Science Research**, **Analysis Systems**, **Physics and Space**. I majored in _Information Technology_ and _Mathematics_ from the University of Delhi.
 
